@@ -1,0 +1,23 @@
+{
+  "name": "vite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "vite": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ntakuya/vite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ntakuya/vite/issues"
+  },
+  "homepage": "https://github.com/Ntakuya/vite#readme",
+  "dependencies": {
+    "vite": "^2.5.10"
+  }
+}
